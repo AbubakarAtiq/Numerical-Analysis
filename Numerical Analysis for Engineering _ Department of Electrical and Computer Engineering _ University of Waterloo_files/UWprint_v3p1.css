@@ -1,0 +1,76 @@
+/*
+CSS Document and design created by Jesse Rodgers, jrodgers@alumni.uwaterloo.ca, as part of the
+UW Global XHTML/CSS template - This style sheet controls printing.
+Copyright 2005 University of Waterloo, Communications and Public Affairs
+*/
+
+/* You may copy any part of this file */
+
+/* this is for printing only */
+/* version 1.0, February 25, 2005 http://web.uwaterloo.ca/documentation/clforgeeks/v1p0.html */
+/* W3 valid CSS */
+
+* {
+	float: none;
+	clear: none;
+}
+body {
+	background-image: none;
+	font-size: 90%;
+	}
+	
+#pagecontainer {
+ border: none;
+ }
+ 
+#searchbox, #primarynav, #secondnavarea, #banner, p#surveypromo {
+	display:none;
+}
+
+#wordmark {
+	 border-top: none;
+}
+
+#wordmark h1 a {
+	 text-decoration: none;
+}
+
+#pagecontainer {
+	background: #fff;
+	width: auto;
+	}
+
+#contentarea, #teachingresearch #primarycontent, #employers #primarycontent, #aboutus #primarycontent   {
+	border: none;
+	overflow: visible;
+}
+
+#primarycontent {
+	width: 100%;
+}
+	
+#contentbar {
+	margin-left: 10px;
+	border-left: none;
+	}	
+
+#contentbar h2 {
+    font-weight: bold;
+    font-size: 1.5em;
+    }
+
+#supplementary {
+	width: 33%;
+	float: left;
+}
+
+#footer {
+	padding: 1em;
+	font-size: .9em;
+	margin-left: 0;
+	border-left: none;
+	}
+	
+img#campaignlogo {
+	float: right;
+	}	

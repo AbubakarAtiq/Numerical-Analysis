@@ -1,0 +1,52 @@
+Course learning outcomes:
+1. Apply different numerical methods to perform polynominal interpolation, curve fitting, 
+differentiation, integration, and estimation of algebraic non-linear e	quations.
+2. Solve ordinary differential equations and compute optimum points in optimization problems
+using numerical techniques.
+3. Apply a simulation tool to implement various numerical methods.
+_________________________________________________________________________
+			Course outline:
+<Introduction to numerical analysis>
+1. Introduction.
+2. measuring errors.
+3. Propagation of errors.
+<Solution of non-linear equations>
+1. Bisection method.
+2. Newton Raphson Method.
+3. Secant method.
+4. False position method.
+<Regression and interpolation>
+1. Linear regression.
+2. Non-linear regression.
+3. Adequacy of regression.
+4. Direct method interpolation
+5. Newton's method of interpolation.
+6. Lagrange interpolation.
+7. Spline interpolation.
+<Numerical differentiation and integration>
+1. Numerical differentiation.
+2. Continuous functions.
+3. Discrete functions.
+4. Numerical integration.
+5. Trapezoidal rule.
+6. Simpson's 1/3 rule.
+7. simpson's 3/8 rule.
+8. Gauss Quad rule.
+9. Improper integrals.
+<Initial value problems for ordinary differential equations>
+1. Elementary theory of initial value problems.
+2. Euler's method.
+3. Finite differential methods
+4. Runge kutta methods.
+5. Shooting method.
+6. Higher order differential equations.
+<Numerical optimization>
+1. Golden section search method.
+2. Newton's method.
+3. Direct search method.
+4. Gradient search method.
+5. Simplex method.
+------------------------------------------------------
+Recommended Books:
+1. Numerical analysis by richard L. Burden.
+2. Numerical methods with applications by Autar K. Kaw.
